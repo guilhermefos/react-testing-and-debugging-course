@@ -1,7 +1,7 @@
 {
-  "name": "react-testing-and-debugging",
+  "name": "react-testing-and-debugging-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tracking down bugs in React—and the many different pieces it communicates with—can be a challenge. While basic JavaScript testing and debugging tools certainly work, solutions designed specifically to work with React will save you time and effort. This course covers those tools, ",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
