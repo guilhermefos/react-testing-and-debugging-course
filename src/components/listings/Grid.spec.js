@@ -7,6 +7,10 @@ describe("Number test", () => {
     expect(numItems).toBe(12);
   });
 
+  test("Number of items less than 13", () => {
+    expect(numItems).toBeLessThan(13);
+  })
+
   test("Number of items to be greater than or equal to 12", () => {
     expect(numItems).toBeGreaterThanOrEqual(12);
   });
